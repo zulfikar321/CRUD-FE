@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/zulfikar321/CRUD-FE/static/css/main.84487ea8.css",
-    "main.js": "/zulfikar321/CRUD-FE/static/js/main.bf1c1911.js",
-    "index.html": "/zulfikar321/CRUD-FE/index.html",
-    "main.84487ea8.css.map": "/zulfikar321/CRUD-FE/static/css/main.84487ea8.css.map",
-    "main.bf1c1911.js.map": "/zulfikar321/CRUD-FE/static/js/main.bf1c1911.js.map"
+    "main.css": "/static/css/main.84487ea8.css",
+    "main.js": "/static/js/main.bf1c1911.js",
+    "index.html": "/index.html",
+    "main.84487ea8.css.map": "/static/css/main.84487ea8.css.map",
+    "main.bf1c1911.js.map": "/static/js/main.bf1c1911.js.map"
   },
   "entrypoints": [
     "static/css/main.84487ea8.css",
